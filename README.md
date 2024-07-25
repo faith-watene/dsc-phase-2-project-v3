@@ -21,20 +21,20 @@ To come up with a reasonable budget to put into the project.
 ![alt text](https://github.com/faith-watene/dsc-phase-2-project-v3/blob/dc0e28466575237a415f96486e39d500ce4e7acf/corr%201.png)
  The correlation between runtime and rating can be visualized using a scatter plot as illustrated above.
 
-![Alt](corr 2.png)
+![alt text](https://github.com/faith-watene/dsc-phase-2-project-v3/blob/cbf50d9d79cbb1347191c70422a579ba9f8b2d4f/corr%202.png)
 The image above shows that the bars are concentrated around the center of the graph indicating that
  most ratings fall within a middle range.
 
-![Alt](corr 3.png)
+![alt text](https://github.com/faith-watene/dsc-phase-2-project-v3/blob/cbf50d9d79cbb1347191c70422a579ba9f8b2d4f/corr%203.png)
 The above image helps us understand how the number of votes a movie has affects the ratings.
 
-![Alt](corr 4.png)
+![alt text](https://github.com/faith-watene/dsc-phase-2-project-v3/blob/cbf50d9d79cbb1347191c70422a579ba9f8b2d4f/corr%204.png)
 This shows the biggest genres in the industry.
 
-![Alt](corr 5.png)
+![alt text](https://github.com/faith-watene/dsc-phase-2-project-v3/blob/cbf50d9d79cbb1347191c70422a579ba9f8b2d4f/corr%205.png)
 This shows the fluctuations between foreign and domestic revenues.
 
-![Alt](corr 6.png)
+![alt text](https://github.com/faith-watene/dsc-phase-2-project-v3/blob/cbf50d9d79cbb1347191c70422a579ba9f8b2d4f/corr%206.png)
 The above image shows that there's no increase in revenue given a higher budget is allocated.
 
 ***Conclusion***
