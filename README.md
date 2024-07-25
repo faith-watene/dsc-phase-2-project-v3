@@ -10,7 +10,7 @@ but they don’t know anything about creating movies. You are charged with explo
 You must then translate those findings into actionable insights that the head of your company's new movie studio can use to help decide what type of films to create.
 
 
-##### Objective
+##### Objectives
 The objectives for this research is :-
 To ensure the data we're working with is viable.
 To look into the runtime and how it affects movie ratings.
@@ -19,22 +19,28 @@ To come up with a reasonable budget to put into the project.
 
 #### Data Analysis
 ![alt text](https://github.com/faith-watene/dsc-phase-2-project-v3/blob/dc0e28466575237a415f96486e39d500ce4e7acf/corr%201.png)
+
  The correlation between runtime and rating can be visualized using a scatter plot as illustrated above.
 
 ![alt text](https://github.com/faith-watene/dsc-phase-2-project-v3/blob/cbf50d9d79cbb1347191c70422a579ba9f8b2d4f/corr%202.png)
+
 The image above shows that the bars are concentrated around the center of the graph indicating that
  most ratings fall within a middle range.
 
 ![alt text](https://github.com/faith-watene/dsc-phase-2-project-v3/blob/cbf50d9d79cbb1347191c70422a579ba9f8b2d4f/corr%203.png)
+
 The above image helps us understand how the number of votes a movie has affects the ratings.
 
 ![alt text](https://github.com/faith-watene/dsc-phase-2-project-v3/blob/cbf50d9d79cbb1347191c70422a579ba9f8b2d4f/corr%204.png)
+
 This shows the biggest genres in the industry.
 
 ![alt text](https://github.com/faith-watene/dsc-phase-2-project-v3/blob/cbf50d9d79cbb1347191c70422a579ba9f8b2d4f/corr%205.png)
+
 This shows the fluctuations between foreign and domestic revenues.
 
 ![alt text](https://github.com/faith-watene/dsc-phase-2-project-v3/blob/cbf50d9d79cbb1347191c70422a579ba9f8b2d4f/corr%206.png)
+
 The above image shows that there's no increase in revenue given a higher budget is allocated.
 
 ***Conclusion***
