@@ -1,0 +1,31 @@
+## COMPANY RESEARCH INTO THE MOVIE INDUSTRY
+
+**Business Understanding**
+Your company now sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio,
+but they don’t know anything about creating movies. You are charged with exploring what types of films are currently doing the best at the box office. 
+You must then translate those findings into actionable insights that the head of your company's new movie studio can use to help decide what type of films to create.
+
+
+
+
+The correlation coefficient is -0.01, indicating a very weak negative correlation. This means that as the runtime increases,the average rating slightly decreases, 
+but the relationship is almost negligible. In simpler terms, the length of runtime has almost no impact on the average rating.The data points are mostly clustered near the origin,
+with one outlier far along the horizontal axis, suggesting that most items have short runtimes and similar ratings, with very few exceptions. Below is the graph that shows the above;
+
+
+
+***Conclusion***
+* The budget doesn't guarantee a higher revenue. This shows us wee need to be careful in how much we add to the budget because we can get serious losses.
+
+* Runtime doesn't affect the ratings of the movie, people are more immersed with the content not he time it takes away
+
+* Documentary, Drama and Biography are the genres with the highest average ratings. This means also that a lot of the voters enjoy watching this kind of shows
+
+***Recommendations***
+* Focus on movies with a runtime of 120 minutes or more, as they are more likely to have a longer runtime and thus more potential for a higher rating.
+
+* Be sure to choose a movie with a budget of at least $100 million, as this will give you a good starting point for your movie.
+
+* Keep a watch on the popularity of your movie (number of votes), as it can help you make sure it is a hit.
+
+* Be sure to choose a movie with a genre that is not too popular (like drama, comedy, or romance), as it will make your movie more appealing to a wider audience. A well balanced movie can have a great success.
