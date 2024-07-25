@@ -18,7 +18,7 @@ To come up with a reasonable budget to put into the project.
 
 
 #### Data Analysis
-![alt](corr 1.png)
+![alt text](https://github.com/faith-watene/dsc-phase-2-project-v3/blob/dc0e28466575237a415f96486e39d500ce4e7acf/corr%201.png)
  The correlation between runtime and rating can be visualized using a scatter plot as illustrated above.
 
 ![Alt](corr 2.png)
