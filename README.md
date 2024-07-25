@@ -1,11 +1,16 @@
 ###GROUP 10
 
 **Memebers**
-*Brandon Mwangi
-*Faith Watene
-*David Wabuko
-*Mercy Jepkogei
-*Emmanuel Chol
+
+* Brandon Mwangi
+
+* Faith Watene
+
+* David Wabuko
+
+* Mercy Jepkogei
+
+* Emmanuel Chol
 
 ## COMPANY RESEARCH INTO THE MOVIE INDUSTRY
 
